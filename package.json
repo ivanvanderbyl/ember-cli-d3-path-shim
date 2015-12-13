@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-d3-path-shim",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Provides a loader for using d3-path in Ember CLI apps",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   },
   "homepage": "https://github.com/ivanvanderbyl/ember-cli-d3-path-shim",
   "dependencies": {
+    "d3-path": "^0.1.2"
   }
 }
