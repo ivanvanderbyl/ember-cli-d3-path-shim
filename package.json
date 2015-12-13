@@ -1,0 +1,28 @@
+{
+  "name": "ember-cli-d3-path-shim",
+  "version": "0.1.0",
+  "description": "Provides a loader for using d3-path in Ember CLI apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanvanderbyl/ember-cli-d3-path-shim"
+  },
+  "keywords": [
+    "ember-addon",
+    "d3",
+    "d3-shape",
+    "addon",
+    "svg"
+  ],
+  "author": "Ivan Vanderbyl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanvanderbyl/ember-cli-d3-path-shim/issues"
+  },
+  "homepage": "https://github.com/ivanvanderbyl/ember-cli-d3-path-shim",
+  "dependencies": {
+  }
+}
